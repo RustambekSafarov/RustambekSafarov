@@ -1,1 +1,1 @@
-# Rustambek Safarov
+# Rustambek
