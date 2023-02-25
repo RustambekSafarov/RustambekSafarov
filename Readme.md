@@ -12,3 +12,4 @@
 
 ## Frameworks and Tools
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,androidstudio,firebase,vscode,github,py,figma,instagram,twitter,linkedin,linux,postman&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,androidstudio,firebase,vscode,github,py,figma,instagram,twitter,linkedin,linux,postman)](https://skillicons.dev)
