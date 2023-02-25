@@ -11,5 +11,4 @@
 <a href="https://www.codewars.com/users/RustambekSafarov/"><img src="https://img.shields.io/badge/codewars-DD915F?style=for-the-badge&logo=codewars&logoColor=white"/></a>
 
 ## Frameworks and Tools
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,androidstudio,firebase,vscode,github,py,figma,instagram,twitter,linkedin,linux,postman&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,androidstudio,firebase,vscode,github,py,figma,instagram,twitter,linkedin,linux,postman)](https://skillicons.dev)
