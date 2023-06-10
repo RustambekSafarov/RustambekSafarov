@@ -1,6 +1,3 @@
-# About Me:
-## Hi, I'm Rustambek. I am a frontend developer using FLutter framework. Interested in Flutter and always looking for new challenges to tackle.
-
 ![Rustam's GitHub stats](https://github-readme-stats.vercel.app/api?username=RustambekSafarov&show_icons=true&theme=tokyonight)
 
 
